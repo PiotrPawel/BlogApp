@@ -1,6 +1,6 @@
 # BlogApp
 
-Following Corey Shafer Python Django tutorial:
+Following Corey Shafer's Python Django tutorial:
 > https://youtu.be/UmljXZIypDc
 
 ## Technologies involved:
