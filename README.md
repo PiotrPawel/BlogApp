@@ -8,10 +8,10 @@ Following Corey Shafer Python Django tutorial:
 - Python
 - HTML
 - Bootstrap
-- AWS S3
-- Heroku
+- AWS S3 (to store images of profile avatars)
+- Heroku 
 
-## Link to app after successful deploying to Heroku:
+## Link to app after deploying to Heroku:
 > https://myblogindjangoapp.herokuapp.com
 
 
